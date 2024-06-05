@@ -1,6 +1,6 @@
 
 # movie-douban-crawl
-![License](https://img.shields.io/badge/license-MIT-yellow)
+![License](https://img.shields.io/badge/license-Apache-yellow)
 ![Language](https://img.shields.io/badge/language-python-brightgreen)
 ## 简介
 
